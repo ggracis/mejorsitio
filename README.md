@@ -10,7 +10,7 @@ A toda la comunidad de resagados de UX/UI
 ## Tecnologías
 
 <ul>
-    <li> NodeJS? 🔥</li>
+    <li> NodeJS 🔥</li>
     <li> React 😎</li>
     <li> Bootstrap 😎</li>
     <li> Material 😎</li>
@@ -20,12 +20,9 @@ A toda la comunidad de resagados de UX/UI
 ### Herramientas
 
 <p>
-
-    Visual Studio Code / Web Storm (lic)
+    Visual Studio Code
     GIT
     Extensiones: live share, prettier, ESLint, node-snippets
-    nvm
-
 </p>
 
 ## Primeros pasos
