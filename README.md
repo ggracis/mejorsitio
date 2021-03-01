@@ -29,7 +29,7 @@ A toda la comunidad de resagados de UX/UI
     <li> React 😎</li>
     <li> Bootstrap 😎</li>
     <li> Material 😎</li>
-    <li> Reacto Router 💻</li>
+    <li> React Router 💻</li>
 </ul>
 
 ### Herramientas
